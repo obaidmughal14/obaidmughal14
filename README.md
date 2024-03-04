@@ -1,6 +1,6 @@
 👋 Hello there!
 
- I'm Obaid, a dedicated BSCS student at Federal Urdu University, on a mission to harness the power of technology and creativity. 🚀
+I'm Obaid, a dedicated BSCS student at Federal Urdu University, on a mission to harness the power of technology and creativity. 🚀
 
 🎓 Pursuing my Bachelor's degree in Computer Science has provided me with a strong foundation in various tech domains. I'm well-versed in HTML, CSS, and JavaScript, enabling me to craft immersive web experiences that captivate users' attention. 💻
 
@@ -8,12 +8,15 @@
 
 🤝 I've also had the privilege of working with "News360," where I started as a Social Media Manager and progressively climbed the ladder to the role of Social Media Manager Head. This journey enhanced my strategic thinking and honed my ability to create compelling online narratives.
 
+🌟 Recently, I contributed my expertise as a WordPress Developer at Qlogic Entertainment for more than 4 months (from November to March 2024), where I further refined my skills in WordPress development, troubleshooting, and customization.
+
 🎨 Beyond coding and management, I'm a certified Graphic Designer, accredited by both Click 5 and Virtual University. This expertise adds a creative edge to my skill set, allowing me to fuse technology with design to produce visually stunning results.
+
+📚 Currently, I'm leveraging my experience as a WordPress Developer at Serve Tech, where I continue to push the boundaries of web development and contribute to innovative projects.
 
 📚 When I'm not immersed in the digital realm, you'll find me staying updated on the latest tech trends, refining my design sensibilities, and seeking opportunities to collaborate on innovative projects.
 
 💌 If you're passionate about technology, design, or simply keen on connecting with someone who's enthusiastic about the digital landscape, feel free to reach out. Let's forge connections, share insights, and embark on a journey of growth and innovation together! 🌐🤝
-
 Twitter @obaidmughal144  (follow) To get development tips & much more
 
 Blog: heylink.me/obaidmughal14 (read) In-depth & long form technical articles
