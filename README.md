@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am Obaid Mughal - Passionate Web Developer with the experience of 1+ years in Web & CMS Development.
+
+Twitter @obaidmughal144  (follow) To get development tips & much more
+
+Blog: heylink.me/obaidmughal14 (read) In-depth & long form technical articles
+
+LinkedIn @obaidmughal14 (connect) On the LinkedIn profile y'all
+
+
 <!--
 **obaidmughal14/obaidmughal14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
