@@ -24,4 +24,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=obaidmughal14&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🎮 My Projects
+
+- **[Multi Games Casino](https://obaidasiaone-multi-games-casino.static.hf.space)** - 170 free casino and mind games in one place. Free to play, unlimited credits, no download, no signup.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
